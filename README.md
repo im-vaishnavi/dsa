@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/im-vaishnavi/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/im-vaishnavi/dsa/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/im-vaishnavi/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/im-vaishnavi/dsa/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/im-vaishnavi/dsa/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/im-vaishnavi/dsa/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/im-vaishnavi/dsa/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/im-vaishnavi/dsa/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
