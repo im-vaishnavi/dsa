@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/im-vaishnavi/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/im-vaishnavi/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/im-vaishnavi/dsa/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/im-vaishnavi/dsa/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/im-vaishnavi/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/im-vaishnavi/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/im-vaishnavi/dsa/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/im-vaishnavi/dsa/tree/master/0074-search-a-2d-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/im-vaishnavi/dsa/tree/master/0071-simplify-path) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/im-vaishnavi/dsa/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
