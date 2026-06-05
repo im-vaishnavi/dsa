@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/im-vaishnavi/dsa/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/im-vaishnavi/dsa/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/im-vaishnavi/dsa/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/im-vaishnavi/dsa/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/im-vaishnavi/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/im-vaishnavi/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/im-vaishnavi/dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/im-vaishnavi/dsa/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/im-vaishnavi/dsa/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/im-vaishnavi/dsa/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/im-vaishnavi/dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/im-vaishnavi/dsa/tree/master/0079-word-search) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/im-vaishnavi/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/im-vaishnavi/dsa/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/im-vaishnavi/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/im-vaishnavi/dsa/tree/master/0079-word-search) |
 ## Recursion
 |  |
 | ------- |
@@ -102,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/im-vaishnavi/dsa/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/im-vaishnavi/dsa/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
