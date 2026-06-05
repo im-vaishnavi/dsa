@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/im-vaishnavi/dsa/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/im-vaishnavi/dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/im-vaishnavi/dsa/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/im-vaishnavi/dsa/tree/master/0062-unique-paths) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/im-vaishnavi/dsa/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/im-vaishnavi/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/im-vaishnavi/dsa/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/im-vaishnavi/dsa/tree/master/0062-unique-paths) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/im-vaishnavi/dsa/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Greedy
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/im-vaishnavi/dsa/tree/master/0061-rotate-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/im-vaishnavi/dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
