@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/im-vaishnavi/dsa/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/im-vaishnavi/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/im-vaishnavi/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/im-vaishnavi/dsa/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/im-vaishnavi/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/im-vaishnavi/dsa/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/im-vaishnavi/dsa/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/im-vaishnavi/dsa/tree/master/0090-subsets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/im-vaishnavi/dsa/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/im-vaishnavi/dsa/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/im-vaishnavi/dsa/tree/master/0090-subsets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
