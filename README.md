@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/im-vaishnavi/dsa/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/im-vaishnavi/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/im-vaishnavi/dsa/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/im-vaishnavi/dsa/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/im-vaishnavi/dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/im-vaishnavi/dsa/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/im-vaishnavi/dsa/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/im-vaishnavi/dsa/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/im-vaishnavi/dsa/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/im-vaishnavi/dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
