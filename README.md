@@ -25,15 +25,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/im-vaishnavi/dsa/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/im-vaishnavi/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/im-vaishnavi/dsa/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/im-vaishnavi/dsa/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/im-vaishnavi/dsa/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/im-vaishnavi/dsa/tree/master/0055-jump-game) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/im-vaishnavi/dsa/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/im-vaishnavi/dsa/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/im-vaishnavi/dsa/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
