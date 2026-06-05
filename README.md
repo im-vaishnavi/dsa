@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/im-vaishnavi/dsa/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/im-vaishnavi/dsa/tree/master/0046-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/im-vaishnavi/dsa/tree/master/0045-jump-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/im-vaishnavi/dsa/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
