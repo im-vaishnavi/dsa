@@ -59,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/im-vaishnavi/dsa/tree/master/0050-powx-n) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/im-vaishnavi/dsa/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/im-vaishnavi/dsa/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
