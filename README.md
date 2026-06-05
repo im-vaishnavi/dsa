@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/im-vaishnavi/dsa/tree/master/0043-multiply-strings) |
+| [0071-simplify-path](https://github.com/im-vaishnavi/dsa/tree/master/0071-simplify-path) |
 ## Simulation
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/im-vaishnavi/dsa/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/im-vaishnavi/dsa/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
