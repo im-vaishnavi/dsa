@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/im-vaishnavi/dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/im-vaishnavi/dsa/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/im-vaishnavi/dsa/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/im-vaishnavi/dsa/tree/master/0089-gray-code) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/im-vaishnavi/dsa/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/im-vaishnavi/dsa/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/im-vaishnavi/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/im-vaishnavi/dsa/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/im-vaishnavi/dsa/tree/master/0089-gray-code) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/im-vaishnavi/dsa/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/im-vaishnavi/dsa/tree/master/0089-gray-code) |
 ## Depth-First Search
 |  |
 | ------- |
