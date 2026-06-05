@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/im-vaishnavi/dsa/tree/master/0043-multiply-strings) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/im-vaishnavi/dsa/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/im-vaishnavi/dsa/tree/master/0045-jump-game-ii) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/im-vaishnavi/dsa/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Greedy
 |  |
 | ------- |
