@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/im-vaishnavi/dsa/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/im-vaishnavi/dsa/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/im-vaishnavi/dsa/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/im-vaishnavi/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/im-vaishnavi/dsa/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Greedy
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/im-vaishnavi/dsa/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/im-vaishnavi/dsa/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/im-vaishnavi/dsa/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/im-vaishnavi/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -129,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/im-vaishnavi/dsa/tree/master/0079-word-search) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/im-vaishnavi/dsa/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/im-vaishnavi/dsa/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/im-vaishnavi/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
