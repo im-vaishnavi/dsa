@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/im-vaishnavi/dsa/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2574-left-and-right-sum-differences](https://github.com/im-vaishnavi/dsa/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/im-vaishnavi/dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/im-vaishnavi/dsa/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
