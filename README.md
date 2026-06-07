@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/im-vaishnavi/dsa/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/im-vaishnavi/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/im-vaishnavi/dsa/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/im-vaishnavi/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/im-vaishnavi/dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/im-vaishnavi/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/im-vaishnavi/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/im-vaishnavi/dsa/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/im-vaishnavi/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/im-vaishnavi/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
 | ------- |
