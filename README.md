@@ -104,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/im-vaishnavi/dsa/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/im-vaishnavi/dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/im-vaishnavi/dsa/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/im-vaishnavi/dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/im-vaishnavi/dsa/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/im-vaishnavi/dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/im-vaishnavi/dsa/tree/master/0086-partition-list) |
