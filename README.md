@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/im-vaishnavi/dsa/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/im-vaishnavi/dsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/im-vaishnavi/dsa/tree/master/0059-spiral-matrix-ii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/im-vaishnavi/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/im-vaishnavi/dsa/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/im-vaishnavi/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/im-vaishnavi/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/im-vaishnavi/dsa/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/im-vaishnavi/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/im-vaishnavi/dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/im-vaishnavi/dsa/tree/master/0086-partition-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/im-vaishnavi/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Combinatorics
 |  |
 | ------- |
