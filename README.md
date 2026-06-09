@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/im-vaishnavi/dsa/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/im-vaishnavi/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/im-vaishnavi/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/im-vaishnavi/dsa/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/im-vaishnavi/dsa/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/im-vaishnavi/dsa/tree/master/0072-edit-distance) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/im-vaishnavi/dsa/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/im-vaishnavi/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/im-vaishnavi/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/im-vaishnavi/dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/im-vaishnavi/dsa/tree/master/0062-unique-paths) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/im-vaishnavi/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/im-vaishnavi/dsa/tree/master/0071-simplify-path) |
 ## Binary Search
 |  |
