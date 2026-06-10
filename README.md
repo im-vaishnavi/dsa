@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/im-vaishnavi/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/im-vaishnavi/dsa/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/im-vaishnavi/dsa/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/im-vaishnavi/dsa/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/im-vaishnavi/dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/im-vaishnavi/dsa/tree/master/0047-permutations-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/im-vaishnavi/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/im-vaishnavi/dsa/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/im-vaishnavi/dsa/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/im-vaishnavi/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/im-vaishnavi/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
