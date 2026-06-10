@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/im-vaishnavi/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/im-vaishnavi/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/im-vaishnavi/dsa/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/im-vaishnavi/dsa/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/im-vaishnavi/dsa/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/im-vaishnavi/dsa/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/im-vaishnavi/dsa/tree/master/0079-word-search) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/im-vaishnavi/dsa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/im-vaishnavi/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/im-vaishnavi/dsa/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/im-vaishnavi/dsa/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/im-vaishnavi/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/im-vaishnavi/dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/im-vaishnavi/dsa/tree/master/0062-unique-paths) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/im-vaishnavi/dsa/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/im-vaishnavi/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/im-vaishnavi/dsa/tree/master/0055-jump-game) |
 | [3689-maximum-total-subarray-value-i](https://github.com/im-vaishnavi/dsa/tree/master/3689-maximum-total-subarray-value-i) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/im-vaishnavi/dsa/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/im-vaishnavi/dsa/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/im-vaishnavi/dsa/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/im-vaishnavi/dsa/tree/master/0050-powx-n) |
 ## Linked List
 |  |
