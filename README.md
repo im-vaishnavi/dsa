@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/im-vaishnavi/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/im-vaishnavi/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [3689-maximum-total-subarray-value-i](https://github.com/im-vaishnavi/dsa/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/im-vaishnavi/dsa/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/im-vaishnavi/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/im-vaishnavi/dsa/tree/master/0055-jump-game) |
 | [3689-maximum-total-subarray-value-i](https://github.com/im-vaishnavi/dsa/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/im-vaishnavi/dsa/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -215,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/im-vaishnavi/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/im-vaishnavi/dsa/tree/master/3691-maximum-total-subarray-value-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/im-vaishnavi/dsa/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
