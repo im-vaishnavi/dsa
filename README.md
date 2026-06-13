@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/im-vaishnavi/dsa/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/im-vaishnavi/dsa/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/im-vaishnavi/dsa/tree/master/0097-interleaving-string) |
+| [3838-weighted-word-mapping](https://github.com/im-vaishnavi/dsa/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/im-vaishnavi/dsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/im-vaishnavi/dsa/tree/master/0059-spiral-matrix-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/im-vaishnavi/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/im-vaishnavi/dsa/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/im-vaishnavi/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [3689-maximum-total-subarray-value-i](https://github.com/im-vaishnavi/dsa/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/im-vaishnavi/dsa/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/im-vaishnavi/dsa/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
